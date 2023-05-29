@@ -4,3 +4,5 @@
 -Classic-Features.py is python script for extracting features (Electro negativity, Radius) for A1A2BX3 perovskite compounds. 
 
 -tol-oct-features.py is a Python script for finding Octahedral, Tolerance factor, and New tolerance factor features.
+
+-intersectionOF2Col-and values .ipynb is a Python script for finding rows with identical names (Intersection of two columns) from two CSV files.
