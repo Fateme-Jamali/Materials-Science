@@ -10,3 +10,5 @@
 -line-replace.py is a python script for replacing one line in all input (*.in) files in the directory.
 
 -delete-duplicate-rows.ipynb is a Python script for deleting duplicate rows in a CSV file.
+
+-tuning.py is a Python script for finding the best parameters from a set of parameters for the Gradient Boosting Regression (GBR) Machine learning algorithm (Using cross-validation method).
