@@ -8,3 +8,5 @@
 -intersectionOF2Col-and values .ipynb is a Python script for finding rows with identical names (Intersection of two columns) from two CSV files.
 
 -line-replace.py is a python script for replacing one line in all input (*.in) files in the directory.
+
+-delete-duplicate-rows.ipynb is a Python script for deleting duplicate rows in a CSV file.
